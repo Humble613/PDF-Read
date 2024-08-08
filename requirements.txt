@@ -1,0 +1,8 @@
+numpy
+pytesseract
+PyMuPDF
+python-docx
+paddlepaddle 
+paddleocr==2.7.0.2
+opencv-python
+python-dotenv
